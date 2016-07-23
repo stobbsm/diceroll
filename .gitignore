@@ -386,22 +386,7 @@ flycheck_*.el
 .buildlog
 ### Redcar template
 .redcar
-### VirtualEnv template
-# Virtualenv
-# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
-.Python
-[Bb]in
-[Ii]nclude
-[Ll]ib
-[Ll]ib64
-[Ll]ocal
-[Ss]cripts
-pyvenv.cfg
-.venv
-pip-selfcheck.json
-### Ninja template
-.ninja_deps
-.ninja_log
+
 ### OSX template
 *.DS_Store
 .AppleDouble
