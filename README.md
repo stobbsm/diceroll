@@ -1,2 +1,24 @@
 # diceroll
-A REST interface to roll arbritary amounts of dice
+A PHP class to roll dice for use in dice based RPGs, or even just to roll dice.
+
+---
+
+diceroll - a PHP based RPG dice roller
+
+Copyright (C) 2016  Matthew Stobbs <matthew@sproutingcommunications.com>
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+*Licensed under the GNU General Public License v3.0 ([GPLv3](LICENSE))*
+

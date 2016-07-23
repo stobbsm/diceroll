@@ -1,12 +1,37 @@
 {
     "name": "sproutingcomm/diceroll",
     "description": "Roll arbritary size of dice",
+    "version": "0.0.1-dev",
     "type": "library",
+    "license": "GPL-3.0",
     "authors": [
         {
             "name": "Matthew Stobbs",
-            "email": "matthew@sproutingcommunications.com"
+            "email": "matthew@sproutingcommunications.com",
+            "role": "Lead",
+            "homepage": "https://www.sproutingcommunications.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^7.0"
+    },
+    "require-dev": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Diceroll\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Diceroll\\Tests\\": "tests/"
+        }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/stobbsm/diceroll.git"
+        }
+    ]
 }
