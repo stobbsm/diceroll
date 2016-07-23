@@ -9,6 +9,11 @@ in order to run a campaign over the internet with easy to see results.
 
 ---
 
+Installation
+---
+Composer - add stobbsm/diceroll to your "require" section.
+
+
 Changelog
 ---
 - 0.0.1 - Initial release
