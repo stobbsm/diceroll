@@ -1,0 +1,12 @@
+{
+    "name": "sproutingcomm/diceroll",
+    "description": "Roll arbritary size of dice",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Matthew Stobbs",
+            "email": "matthew@sproutingcommunications.com"
+        }
+    ],
+    "require": {}
+}
