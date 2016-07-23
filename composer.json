@@ -33,7 +33,7 @@
             "type": "vcs",
             "url": "https://github.com/stobbsm/diceroll.git"
         }
-    ]
+    ],
     "bin": [
         "bin/rolldice.php"
     ]
