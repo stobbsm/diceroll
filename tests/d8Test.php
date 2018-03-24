@@ -25,7 +25,7 @@
 
 use Diceroll\Dice\d8;
 
-class d8Test extends PHPUnit_Framework_TestCase
+class d8Test extends PHPUnit\Framework\TestCase
 {
     protected $min=1;
     protected $max=8;

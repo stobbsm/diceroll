@@ -25,7 +25,7 @@
 
 use Diceroll\Dice\d4;
 
-class d4Test extends PHPUnit_Framework_TestCase
+class d4Test extends PHPUnit\Framework\TestCase
 {
     protected $min=1;
     protected $max=4;

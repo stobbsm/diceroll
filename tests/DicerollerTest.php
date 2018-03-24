@@ -25,7 +25,7 @@
 
 use Diceroll\Diceroller;
 
-class DicerollTest extends PHPUnit_Framework_TestCase
+class DicerollTest extends PHPUnit\Framework\TestCase
 {
     protected $roller;
     public function setUp() {

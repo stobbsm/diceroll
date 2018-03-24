@@ -26,7 +26,7 @@
 use Diceroll\Dice\d6;
 
 
-class d6Test extends PHPUnit_Framework_TestCase
+class d6Test extends PHPUnit\Framework\TestCase
 {
     protected $min=1;
     protected $max=6;

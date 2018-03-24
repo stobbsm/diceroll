@@ -25,7 +25,7 @@
  */
 use Diceroll\Dice\d100;
 
-class d100Test extends PHPUnit_Framework_TestCase
+class d100Test extends PHPUnit\Framework\TestCase
 {
     protected $min=1;
     protected $max=100;
